@@ -5,4 +5,4 @@
 ![3](https://user-images.githubusercontent.com/79206432/130126919-e969470d-8108-429a-be9f-70706d46d30b.jpg)
 ![4](https://user-images.githubusercontent.com/79206432/130126920-974cc22d-a2b8-451c-98b2-64567c784c9d.jpg)
 # Layou-de-Marketing-Digital
-Um layout feito pra uma empresa na área de marketing digital
+Um layout feito pra uma agência de marketing digital
